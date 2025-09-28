@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m **Sudeep**!  
-🎓 2nd-year **ECE student** at Vasavi College of Engineering, Hyderabad.  
+🎓 3rd-year **ECE student** at Vasavi College of Engineering, Hyderabad.  
 💻 Passionate about **coding, AI, and software development** with a strong foundation in **Data Structures & Algorithms**.  
 🚀 Actively building **AI-powered applications, GenAI projects, and full-stack solutions**.  
 🧠 Solved 700+ problems across platforms like **LeetCode**, constantly sharpening my problem-solving skills.  
